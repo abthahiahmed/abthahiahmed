@@ -1,10 +1,10 @@
 Hello There, 
 I'm Abthahi Ahmed Rifat 👋️
 
-💼️ Working as a Web Developer
-🤓️ Founder at [AAR SoftX](https://aarsoftx.com)
-😁️ I love to code some unique ideas
-🏠️ From Chittagong, Bangladesh
+* 💼️ Working as a Web Developer
+* 🤓️ Founder at [AAR SoftX](https://aarsoftx.com)
+* 😁️ I love to code some unique ideas
+* 🏠️ From Chittagong, Bangladesh
 
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,nodejs,cpp,python,mysql,nextjs,react)](https://skillicons.dev)
