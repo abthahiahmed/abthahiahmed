@@ -7,7 +7,7 @@ I'm Abthahi Ahmed Rifat 👋️
 * 🏠️ From Chittagong, Bangladesh
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,python,php,html,css,bootstrap,tailwindcss,nodejs,react,nextjs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,python,php,html,css,bootstrap,tailwindcss,nodejs,expressjs,react,nextjs,mysql)](https://skillicons.dev)
 
 ### Connect With 
 * Facebook : [Abthahi & Programming](https://facebook.com/IAmAbthahi)
