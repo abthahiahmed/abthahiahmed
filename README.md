@@ -13,8 +13,8 @@ I'm Abthahi Ahmed Rifat 👋️
 * Facebook : [Abthahi & Programming](https://facebook.com/IAmAbthahi)
 * Youtube  : [Abthahi & Programming](https://youtube.com/@iamabthahi)
 * Linkedin : [Abthahi Ahmed Rifat](https://www.linkedin.com/in/iamabthahi/)
-* Website  : [AAR SoftX](https://aarsoft.com) 
-* AlgoRux  : [AlgoRux](https://algorux.com)
+* Website  : [AAR SoftX | My Startup](https://aarsoft.com) 
+* AlgoRux  : [AlgoRux | Code Challenge Platform](https://algorux.com)
 
 ```cpp
 #include <iostream>
