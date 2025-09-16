@@ -1,8 +1,8 @@
 Hello There, 
 I'm Abthahi Ahmed Rifat 👋️
 
-* 💼️ Working as a Web Developer
-* 🤓️ Founder at [AAR SoftX](https://aarsoftx.com)
+* 💼️ Working as a Full-stack Developer
+* 🤓️ Founder at [AlgoRux](https://algorux.com)
 * 😁️ I love to code some unique ideas
 * 🏠️ From Chittagong, Bangladesh
 
